@@ -104,28 +104,28 @@ class _ThemeTestPageState extends State<ThemeTestPage> {
           mainAxisAlignment: MainAxisAlignment.start,
           children: [
             Text(
-              'Test Hello Defacto',
+              'Test Hello ',
               style: appTheme.textStyles.overLine,
             ),
             SizedBox(
               height: 5,
             ),
             Text(
-              'Test Hello Defacto',
+              'Test Hello ',
               style: appTheme.textStyles.caption,
             ),
             SizedBox(
               height: 5,
             ),
             Text(
-              'Test Hello Defacto',
+              'Test Hello ',
               style: appTheme.textStyles.captionGrey,
             ),
             SizedBox(
               height: 5,
             ),
             Text(
-              'Test Hello Defacto',
+              'Test Hello ',
               style: appTheme.textStyles.captionBold,
             ),
             SizedBox(
@@ -134,7 +134,7 @@ class _ThemeTestPageState extends State<ThemeTestPage> {
             Container(
               color: appTheme.colors.primary,
               child: Text(
-                'Test Hello Defacto',
+                'Test Hello ',
                 style: appTheme.textStyles.captionWhiteExtraBold,
               ),
             ),
@@ -142,28 +142,28 @@ class _ThemeTestPageState extends State<ThemeTestPage> {
               height: 5,
             ),
             Text(
-              'Test Hello Defacto',
+              'Test Hello ',
               style: appTheme.textStyles.bodyLight,
             ),
             SizedBox(
               height: 5,
             ),
             Text(
-              'Test Hello Defacto',
+              'Test Hello ',
               style: appTheme.textStyles.body,
             ),
             SizedBox(
               height: 5,
             ),
             Text(
-              'Test Hello Defacto',
+              'Test Hello ',
               style: appTheme.textStyles.bodySemiBold,
             ),
             SizedBox(
               height: 5,
             ),
             Text(
-              'Test Hello Defacto',
+              'Test Hello ',
               style: appTheme.textStyles.bodyBold,
             ),
             SizedBox(
@@ -172,7 +172,7 @@ class _ThemeTestPageState extends State<ThemeTestPage> {
             Container(
               color: appTheme.colors.primary,
               child: Text(
-                'Test Hello Defacto',
+                'Test Hello ',
                 style: appTheme.textStyles.bodyWhite,
               ),
             ),
@@ -182,7 +182,7 @@ class _ThemeTestPageState extends State<ThemeTestPage> {
             Container(
               color: appTheme.colors.primary,
               child: Text(
-                'Test Hello Defacto',
+                'Test Hello ',
                 style: appTheme.textStyles.bodyWhiteExtraBold,
               ),
             ),
