@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       create: (_) => AppTheme(),
       child: Builder(
         builder: (context) {
-          return MaterialApp(theme: _buildTheme(context), title: 'Defacto', home: ThemeTestPage());
+          return MaterialApp(theme: _buildTheme(context), title: 'Theme Test', home: ThemeTestPage());
         },
       ),
     );
