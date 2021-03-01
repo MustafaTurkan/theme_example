@@ -28,7 +28,7 @@ class _ThemeTestPageState extends State<ThemeTestPage> {
               onPressed: () {},
             ),
             actions: [IconButton(icon: Icon(Icons.search), onPressed: () {})],
-            title: Text('DEFACTO'),
+            title: Text('TEST THEME'),
             bottom: TabBar(
               tabs: [
                 Tab(text: 'Tab 1'),
